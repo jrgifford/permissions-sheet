@@ -1,10 +1,10 @@
 {
-	"id": "org.apache.cordova.webos",
+	"id": "com.jamesgifford.chmodcheatsheet",
 	"version": "0.0.1",
 	"vendor": "Palm",
 	"type": "web",
 	"main": "index.html",
-	"title": "Cordova WebOS",
-	"icon": "cordova_48.png",
+	"title": "permissions sheet",
+	"icon": "",
 	"uiRevision": 2
 }
